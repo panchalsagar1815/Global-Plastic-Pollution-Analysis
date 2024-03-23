@@ -1,4 +1,4 @@
-# Global-Pla
+# Global
 **Project: Global Plastic Pollution Analysis**
 
 **Objective:**
