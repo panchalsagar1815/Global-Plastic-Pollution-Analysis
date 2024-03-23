@@ -29,7 +29,7 @@ The "Global Plastic Pollution Analysis" project aims to analyze and understand t
 **Insights and Metrics:**
 1. **Plastic Pollution Metrics:**
    - Calculated key metrics such as per capita plastic waste generation, GDP per capita, and population density for each region and year.
-   - Analyzed trends and variations in plastic pollution levels across different continents and over time.
+   - Analyzed trends and variations in plastic pollution levels across continents and over time.
 
 2. **Correlation Analysis:**
    - Investigated the correlation between plastic waste generation and economic indicators such as GDP per capita and PPP.
