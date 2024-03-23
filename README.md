@@ -1,4 +1,4 @@
-#**Project: Global Plastic Pollution Analysis**
+# **Project: Global Plastic Pollution Analysis**
 
 **Objective:**
 The "Global Plastic Pollution Analysis" project aims to analyze and understand the trends and patterns of plastic pollution worldwide. By leveraging data on various features such as Entity, Code, Year, Per capita plastic waste (kg/person/day), GDP per capita, PPP (constant 2011 international $), Total population (Gapminder, HYDE & UN), and Continent, the project seeks to provide insights into the extent of plastic pollution across different regions and its correlation with economic and demographic factors.
