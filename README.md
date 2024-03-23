@@ -1,4 +1,4 @@
-# Global-Plastic-Pollution-Analysis
+# Global-Plastic-Pollution
 **Project: Global Plastic Pollution Analysis**
 
 **Objective:**
